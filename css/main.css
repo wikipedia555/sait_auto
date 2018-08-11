@@ -1435,6 +1435,8 @@ a.load-more, .blog-post a.read-more {
     background: rgba(0, 0, 0, 80%);
     box-shadow: 0 0 5px 4px rgba(0, 0, 0, 75%);
     color: white;
+    margin-bottom: 15px;
+    height: 530px;
 }
 
 .auto span {
@@ -1447,8 +1449,8 @@ a.load-more, .blog-post a.read-more {
     background: #ffc000;
     color: black;
     padding: 5px 5px 0;
-    right: 0px;
-    bottom: 10px;
+    right: 10px;
+    bottom: 40px;
     box-shadow: 0 0 5px 4px rgba(0, 0, 0, 75%);
 }
 
