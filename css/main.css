@@ -1434,6 +1434,11 @@ a.load-more, .blog-post a.read-more {
     display: block;
     background: rgba(0, 0, 0, 80%);
     box-shadow: 3px 3px 5px;
+    color: white;
+}
+
+.auto span {
+    color: gray;
 }
 
 .price-auto {
