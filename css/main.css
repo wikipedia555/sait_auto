@@ -1429,3 +1429,8 @@ a.load-more, .blog-post a.read-more {
         font-size: 16px !important;
     }
 }
+.auto {
+    padding: 10px 15px 15px;
+    display: block;
+    background: rgba(0, 0, 0, 95%);
+}
