@@ -1429,3 +1429,33 @@ a.load-more, .blog-post a.read-more {
         font-size: 16px !important;
     }
 }
+.auto {
+    padding: 10px 15px 15px;
+    display: block;
+    background: rgba(0, 0, 0, 80%);
+    box-shadow: 0 0 5px 4px rgba(0, 0, 0, 75%);
+    color: white;
+}
+
+.auto span {
+    color: gray;
+}
+
+.price-auto {
+    display: block;
+    position: absolute;
+    background: yellow;
+    color: black;
+    padding: 5px 5px 0;
+    right: 0px;
+    bottom: 10px;
+    box-shadow: 0 0 5px 4px rgba(0, 0, 0, 75%);
+}
+
+.auto-name {
+    background: rgba(255, 255, 255, 90%);
+    display: block;
+    text-align: center;
+    position: relative;
+    margin-bottom: 7px;
+}
