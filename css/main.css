@@ -1334,7 +1334,7 @@ a.load-more, .blog-post a.read-more {
     margin-top: -1px;
     top: 100%;
     z-index: 99;
-    background: #508920;
+    background: rgba(0, 0, 0, 75%);
     width: 230px;
     padding: 10px 5px;
     display: none;        
